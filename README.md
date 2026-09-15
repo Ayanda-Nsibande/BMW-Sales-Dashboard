@@ -1,4 +1,4 @@
-![BMW Dashboard](BMW_Dashboard.png)
+![BMW Dashboard](BMW_Dashboard .png)
 
 PROJECT TITLE
 
