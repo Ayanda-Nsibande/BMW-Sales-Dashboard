@@ -1,3 +1,5 @@
+![BMW Dashboard](BMW_Dashboard.png)
+
 PROJECT TITLE
 
 BMW sales analysis
