@@ -7,7 +7,7 @@ BMW sales analysis
 
 INTRODUCTION
 
-This project analyzes BMW sales data from 2018 to 2024 to identify key trends and actionable business insights.
+This project analyzes BMW sales data from 2010 to 2024 to identify key trends and actionable business insights.
 
 
 METHODIOLOGY 
